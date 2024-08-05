@@ -1,0 +1,6 @@
+streamlit
+pandas
+gspread
+streamlit_gsheets
+streamlit_option_menu
+PIL
